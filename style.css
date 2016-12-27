@@ -1,0 +1,17 @@
+div#docker-logs {
+    width: 780px;
+    margin: 0 auto;
+    height: 400px;
+    border: 1px solid #000;
+    padding: 0px;
+    background-color: #272727;
+    color: #fff;
+    line-height: 3px;
+    font-family: monospace;
+    float: left;
+    overflow-y: auto;
+}
+
+div#docker-logs p {
+    padding-left: 20px;
+}
